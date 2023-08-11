@@ -31,7 +31,7 @@ Projeto: Desenvolvimento de um Pipeline de ETL (Extract Transform and Load) util
 ## Passo a Passo
 
 Utilizando o Google Colab, extraí três tabelas com dados no formato .csv utiliando a Biblioteca Pandas.
-Em seguida, prossegui com as etapas de Limpeza, Transformação e Enriquecimento dos dados utiliando a mesma Biblioteca (Pandas).
+Em seguida, prossegui com as etapas de Limpeza, Transformação e Enriquecimento dos dados utilizando a mesma Biblioteca (Pandas).
 Finalmente, após ter criando uma única tabela, carreguei os dados em uma instância do Google Big Query utilizando a biblioteca Google Auth.
 
 
