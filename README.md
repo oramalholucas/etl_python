@@ -24,7 +24,9 @@ Projeto: Desenvolvimento de um Pipeline de ETL (Extract Transform and Load) util
 
 ## Protótipo do Pipeline
 
-<https://media.licdn.com/dms/image/D4D22AQE_Rf0SFS-pMg/feedshare-shrink_1280/0/1691353538995?e=1694649600&v=beta&t=_EgvKfqvGHxNZccroxbDVdiSuUDX2DxAOnsJQmyspkQ>
+<div align="left">
+<img src="https://media.licdn.com/dms/image/D4D22AQE_Rf0SFS-pMg/feedshare-shrink_1280/0/1691353538995?e=1694649600&v=beta&t=_EgvKfqvGHxNZccroxbDVdiSuUDX2DxAOnsJQmyspkQ" width="700px" />
+</div>
 
 ## Passo a Passo
 
