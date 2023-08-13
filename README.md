@@ -8,7 +8,7 @@ Projeto: Desenvolvimento de um Pipeline de ETL (Extract, Transform and Load) uti
     - Importação de arquivos com pandas
     - Navegação pelos dados
 
-2. Limpeza, transformação e henriquecimento desses dados
+2. Limpeza, transformação e enriquecimento de dados
     - Merge (Joins entre tabelas)
     - Remoção de colunas
     - Renomeação de colunas
