@@ -59,10 +59,9 @@ A união de múltiplas fontes de dados em um único local, facilita a exploraç�
 
 ## Sobre o Desenvolvedor
 
-Lucas Ramalho é formado em Big Data e Inteligência Competitiva pela Descomplica Faculdade Digital. Atua com dados desde 2021, hoje como Analytics Engineer e Sr. BI Developer.
-Passou por diferentes segmentos como Varejo, Logística, Indústria e Tecnologia, sempre com viés analítico.
-Atualmente, trabalha no Grupo BBM um dos principais operadores logísticos do Mercosul, entregando soluções em dados para apoiar a tomada de decisão de toda a companhia.
-Sua rotina consiste em trabalhar para Projetar, Desenvolver, Implementar e Manter Soluções em dados, bem como Desenvolver Pipelines de ETL/ELT, sempre optando pela Otimização de Desempenho e Escalabilidade.
+Lucas Ramalho atua como Analytics Engineer e Sr. BI Developer, é formado em Big Data e Inteligência Competitiva pela Descomplica Faculdade Digital, atua com dados desde 2021, já atuou em diferentes segmentos como Varejo, Logística, Indústria e Tecnologia.
+ 
+Hoje, atua no Grupo BBM um dos principais operadores logísticos do Mercosul, entregando soluções em dados para apoiar a tomada de decisão de toda a companhia. Sua rotina consiste em trabalhar para Projetar, Desenvolver, Implementar e Manter Soluções em dados, bem como Desenvolver Pipelines de ETL/ELT, sempre optando pela Otimização de Desempenho e Escalabilidade.
 
 Conheça mais detalhes no [LinkedIn](https://www.linkedin.com/in/olucasramalho/).
 
